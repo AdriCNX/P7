@@ -19,7 +19,9 @@ public class Equipo {
 		this.ciudad = ciudad;
 		this.conferencia = conferencia;
 		this.division = division;
+		System.out.println("Hola Clon");
 	}
+	
 
 	public String getNombre() {
 		return nombre;
