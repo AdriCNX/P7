@@ -1,4 +1,4 @@
-package baseDatos_NBA;
+package baseDatos_NBA.P7;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
